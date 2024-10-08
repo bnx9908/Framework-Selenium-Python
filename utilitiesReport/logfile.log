@@ -118,3 +118,19 @@ Success! The Form has been submitted successfully!.
 Success! The Form has been submitted successfully!.
 2024-10-08 18:21:06,058 : INFO : test_submissionForm : Text received from application: ×
 Success! The Form has been submitted successfully!.
+2024-10-08 18:47:10,088 : INFO : test_end2end : Getting all products names links...
+2024-10-08 18:47:10,098 : INFO : test_end2end : iphone X
+2024-10-08 18:47:10,103 : INFO : test_end2end : Samsung Note 8
+2024-10-08 18:47:10,108 : INFO : test_end2end : Nokia Edge
+2024-10-08 18:47:10,113 : INFO : test_end2end : Blackberry
+2024-10-08 18:47:15,977 : INFO : test_end2end : Romania exists in the autosuggestions list -> 
+Romania
+2024-10-08 18:47:27,927 : INFO : test_submissionForm : NAME: Joana
+2024-10-08 18:47:28,617 : INFO : test_submissionForm : Text received from application: ×
+Success! The Form has been submitted successfully!.
+2024-10-08 18:47:30,322 : INFO : test_submissionForm : NAME: Alex
+2024-10-08 18:47:30,322 : INFO : test_submissionForm : NAME: Alex
+2024-10-08 18:47:30,784 : INFO : test_submissionForm : Text received from application: ×
+Success! The Form has been submitted successfully!.
+2024-10-08 18:47:30,784 : INFO : test_submissionForm : Text received from application: ×
+Success! The Form has been submitted successfully!.
