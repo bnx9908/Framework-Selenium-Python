@@ -1,0 +1,120 @@
+2024-10-08 12:43:18,646 : INFO : test_end2end : Getting all products names links...
+2024-10-08 12:43:18,657 : INFO : test_end2end : iphone X
+2024-10-08 12:43:18,662 : INFO : test_end2end : Samsung Note 8
+2024-10-08 12:43:18,667 : INFO : test_end2end : Nokia Edge
+2024-10-08 12:43:18,672 : INFO : test_end2end : Blackberry
+2024-10-08 12:43:25,047 : INFO : test_end2end : Romania exists in the autosuggestions list -> 
+Romania
+2024-10-08 12:43:36,976 : INFO : test_submissionForm : NAME: Joana
+2024-10-08 12:43:37,706 : INFO : test_submissionForm : Text received from application: ×
+Success! The Form has been submitted successfully!.
+2024-10-08 12:43:39,278 : INFO : test_submissionForm : NAME: Alex
+2024-10-08 12:43:39,278 : INFO : test_submissionForm : NAME: Alex
+2024-10-08 12:43:39,745 : INFO : test_submissionForm : Text received from application: ×
+Success! The Form has been submitted successfully!.
+2024-10-08 12:43:39,745 : INFO : test_submissionForm : Text received from application: ×
+Success! The Form has been submitted successfully!.
+2024-10-08 12:46:02,962 : INFO : test_end2end : Getting all products names links...
+2024-10-08 12:46:03,018 : INFO : test_end2end : iphone X
+2024-10-08 12:46:03,023 : INFO : test_end2end : Samsung Note 8
+2024-10-08 12:46:03,030 : INFO : test_end2end : Nokia Edge
+2024-10-08 12:46:03,037 : INFO : test_end2end : Blackberry
+2024-10-08 12:46:08,124 : INFO : test_submissionForm : NAME: Joana
+2024-10-08 12:46:08,359 : INFO : test_submissionForm : Text received from application: ×
+Success! The Form has been submitted successfully!.
+2024-10-08 12:46:08,637 : INFO : test_submissionForm : NAME: Alex
+2024-10-08 12:46:08,637 : INFO : test_submissionForm : NAME: Alex
+2024-10-08 12:46:08,809 : INFO : test_submissionForm : Text received from application: ×
+Success! The Form has been submitted successfully!.
+2024-10-08 12:46:08,809 : INFO : test_submissionForm : Text received from application: ×
+Success! The Form has been submitted successfully!.
+2024-10-08 13:03:53,734 : INFO : test_end2end : Getting all products names links...
+2024-10-08 13:03:53,743 : INFO : test_end2end : iphone X
+2024-10-08 13:03:53,748 : INFO : test_end2end : Samsung Note 8
+2024-10-08 13:03:53,753 : INFO : test_end2end : Nokia Edge
+2024-10-08 13:03:53,760 : INFO : test_end2end : Blackberry
+2024-10-08 13:04:00,116 : INFO : test_end2end : Romania exists in the autosuggestions list -> 
+Romania
+2024-10-08 13:04:11,738 : INFO : test_submissionForm : NAME: Joana
+2024-10-08 13:04:12,415 : INFO : test_submissionForm : Text received from application: ×
+Success! The Form has been submitted successfully!.
+2024-10-08 13:04:13,992 : INFO : test_submissionForm : NAME: Alex
+2024-10-08 13:04:13,992 : INFO : test_submissionForm : NAME: Alex
+2024-10-08 13:04:14,503 : INFO : test_submissionForm : Text received from application: ×
+Success! The Form has been submitted successfully!.
+2024-10-08 13:04:14,503 : INFO : test_submissionForm : Text received from application: ×
+Success! The Form has been submitted successfully!.
+2024-10-08 14:01:55,067 : INFO : test_end2end : Getting all products names links...
+2024-10-08 14:01:55,088 : INFO : test_end2end : iphone X
+2024-10-08 14:01:55,095 : INFO : test_end2end : Samsung Note 8
+2024-10-08 14:01:55,101 : INFO : test_end2end : Nokia Edge
+2024-10-08 14:01:55,107 : INFO : test_end2end : Blackberry
+2024-10-08 14:02:00,830 : INFO : test_submissionForm : NAME: Joana
+2024-10-08 14:02:01,065 : INFO : test_submissionForm : Text received from application: ×
+Success! The Form has been submitted successfully!.
+2024-10-08 14:02:01,366 : INFO : test_submissionForm : NAME: Alex
+2024-10-08 14:02:01,366 : INFO : test_submissionForm : NAME: Alex
+2024-10-08 14:02:01,530 : INFO : test_submissionForm : Text received from application: ×
+Success! The Form has been submitted successfully!.
+2024-10-08 14:02:01,530 : INFO : test_submissionForm : Text received from application: ×
+Success! The Form has been submitted successfully!.
+2024-10-08 14:35:58,892 : INFO : test_end2end : Getting all products names links...
+2024-10-08 14:35:58,915 : INFO : test_end2end : iphone X
+2024-10-08 14:35:58,922 : INFO : test_end2end : Samsung Note 8
+2024-10-08 14:35:58,928 : INFO : test_end2end : Nokia Edge
+2024-10-08 14:35:58,935 : INFO : test_end2end : Blackberry
+2024-10-08 14:36:04,495 : INFO : test_end2end : Romania exists in the autosuggestions list -> 
+Romania
+2024-10-08 14:36:10,166 : INFO : test_submissionForm : NAME: Joana
+2024-10-08 14:36:10,393 : INFO : test_submissionForm : Text received from application: ×
+Success! The Form has been submitted successfully!.
+2024-10-08 14:36:10,703 : INFO : test_submissionForm : NAME: Alex
+2024-10-08 14:36:10,703 : INFO : test_submissionForm : NAME: Alex
+2024-10-08 14:36:10,878 : INFO : test_submissionForm : Text received from application: ×
+Success! The Form has been submitted successfully!.
+2024-10-08 14:36:10,878 : INFO : test_submissionForm : Text received from application: ×
+Success! The Form has been submitted successfully!.
+2024-10-08 14:36:58,998 : INFO : test_end2end : Getting all products names links...
+2024-10-08 14:36:59,019 : INFO : test_end2end : iphone X
+2024-10-08 14:36:59,026 : INFO : test_end2end : Samsung Note 8
+2024-10-08 14:36:59,034 : INFO : test_end2end : Nokia Edge
+2024-10-08 14:36:59,041 : INFO : test_end2end : Blackberry
+2024-10-08 14:37:04,338 : INFO : test_submissionForm : NAME: Joana
+2024-10-08 14:37:04,570 : INFO : test_submissionForm : Text received from application: ×
+Success! The Form has been submitted successfully!.
+2024-10-08 14:37:04,871 : INFO : test_submissionForm : NAME: Alex
+2024-10-08 14:37:04,871 : INFO : test_submissionForm : NAME: Alex
+2024-10-08 14:37:05,035 : INFO : test_submissionForm : Text received from application: ×
+Success! The Form has been submitted successfully!.
+2024-10-08 14:37:05,035 : INFO : test_submissionForm : Text received from application: ×
+Success! The Form has been submitted successfully!.
+2024-10-08 14:37:43,536 : INFO : test_end2end : Getting all products names links...
+2024-10-08 14:37:43,558 : INFO : test_end2end : iphone X
+2024-10-08 14:37:43,566 : INFO : test_end2end : Samsung Note 8
+2024-10-08 14:37:43,573 : INFO : test_end2end : Nokia Edge
+2024-10-08 14:37:43,580 : INFO : test_end2end : Blackberry
+2024-10-08 14:37:49,143 : INFO : test_submissionForm : NAME: Joana
+2024-10-08 14:37:49,368 : INFO : test_submissionForm : Text received from application: ×
+Success! The Form has been submitted successfully!.
+2024-10-08 14:37:49,668 : INFO : test_submissionForm : NAME: Alex
+2024-10-08 14:37:49,668 : INFO : test_submissionForm : NAME: Alex
+2024-10-08 14:37:49,820 : INFO : test_submissionForm : Text received from application: ×
+Success! The Form has been submitted successfully!.
+2024-10-08 14:37:49,820 : INFO : test_submissionForm : Text received from application: ×
+Success! The Form has been submitted successfully!.
+2024-10-08 18:20:45,226 : INFO : test_end2end : Getting all products names links...
+2024-10-08 18:20:45,257 : INFO : test_end2end : iphone X
+2024-10-08 18:20:45,262 : INFO : test_end2end : Samsung Note 8
+2024-10-08 18:20:45,267 : INFO : test_end2end : Nokia Edge
+2024-10-08 18:20:45,272 : INFO : test_end2end : Blackberry
+2024-10-08 18:20:51,143 : INFO : test_end2end : Romania exists in the autosuggestions list -> 
+Romania
+2024-10-08 18:21:03,196 : INFO : test_submissionForm : NAME: Joana
+2024-10-08 18:21:03,886 : INFO : test_submissionForm : Text received from application: ×
+Success! The Form has been submitted successfully!.
+2024-10-08 18:21:05,603 : INFO : test_submissionForm : NAME: Alex
+2024-10-08 18:21:05,603 : INFO : test_submissionForm : NAME: Alex
+2024-10-08 18:21:06,058 : INFO : test_submissionForm : Text received from application: ×
+Success! The Form has been submitted successfully!.
+2024-10-08 18:21:06,058 : INFO : test_submissionForm : Text received from application: ×
+Success! The Form has been submitted successfully!.
