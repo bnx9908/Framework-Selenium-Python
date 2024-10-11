@@ -134,3 +134,35 @@ Success! The Form has been submitted successfully!.
 Success! The Form has been submitted successfully!.
 2024-10-08 18:47:30,784 : INFO : test_submissionForm : Text received from application: ×
 Success! The Form has been submitted successfully!.
+2024-10-10 11:03:40,210 : INFO : test_end2end : Getting all products names links...
+2024-10-10 11:03:40,233 : INFO : test_end2end : iphone X
+2024-10-10 11:03:40,239 : INFO : test_end2end : Samsung Note 8
+2024-10-10 11:03:40,244 : INFO : test_end2end : Nokia Edge
+2024-10-10 11:03:40,249 : INFO : test_end2end : Blackberry
+2024-10-10 11:03:46,120 : INFO : test_end2end : Romania exists in the autosuggestions list -> 
+Romania
+2024-10-10 11:03:56,889 : INFO : test_submissionForm : NAME: Joana
+2024-10-10 11:03:57,565 : INFO : test_submissionForm : Text received from application: ×
+Success! The Form has been submitted successfully!.
+2024-10-10 11:03:59,272 : INFO : test_submissionForm : NAME: Alex
+2024-10-10 11:03:59,272 : INFO : test_submissionForm : NAME: Alex
+2024-10-10 11:03:59,733 : INFO : test_submissionForm : Text received from application: ×
+Success! The Form has been submitted successfully!.
+2024-10-10 11:03:59,733 : INFO : test_submissionForm : Text received from application: ×
+Success! The Form has been submitted successfully!.
+2024-10-10 22:21:21,257 : INFO : test_end2end : Getting all products names links...
+2024-10-10 22:21:21,275 : INFO : test_end2end : iphone X
+2024-10-10 22:21:21,280 : INFO : test_end2end : Samsung Note 8
+2024-10-10 22:21:21,284 : INFO : test_end2end : Nokia Edge
+2024-10-10 22:21:21,289 : INFO : test_end2end : Blackberry
+2024-10-10 22:21:26,786 : INFO : test_end2end : Romania exists in the autosuggestions list -> 
+Romania
+2024-10-10 22:21:32,048 : INFO : test_submissionForm : NAME: Joana
+2024-10-10 22:21:32,334 : INFO : test_submissionForm : Text received from application: ×
+Success! The Form has been submitted successfully!.
+2024-10-10 22:21:32,785 : INFO : test_submissionForm : NAME: Alex
+2024-10-10 22:21:32,785 : INFO : test_submissionForm : NAME: Alex
+2024-10-10 22:21:33,032 : INFO : test_submissionForm : Text received from application: ×
+Success! The Form has been submitted successfully!.
+2024-10-10 22:21:33,032 : INFO : test_submissionForm : Text received from application: ×
+Success! The Form has been submitted successfully!.
